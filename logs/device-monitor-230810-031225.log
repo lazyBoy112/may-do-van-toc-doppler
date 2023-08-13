@@ -1,0 +1,76 @@
+[37me[37mts Jul 29 2019 12:21:46
+
+rst:[37m0[37mx1 (POWERON_RESET),boot:0x13 (S[37mP[37mI_FAST_FLASH_BOOT)
+configsip: [37m0[37m, SPIWP:0xee
+clk_drv:0x00,q_dr[37mv[37m:0x00,d_drv:0x00,cs0_drv:0x00,h[37md[37m_drv:0x00,wp_drv:0x00
+mode:DIO[37m,[37m clock div:2
+load:0x3fff0030,l[37me[37mn:6608
+load:0x40078000,len:147[37m8[37m8
+ho 0 tail 12 room 4
+load:0x[37m4[37m0080400,len:3792
+entry 0x40080[37m6[37m94
+[37m[37m[0;32mI (29) boot: ESP-IDF 4.4.[37m1[37m 2nd stage bootloader[0m
+[0;[37m3[37m2mI (29) boot: compile time 03:[37m1[37m1:36[0m
+[0;32mI (29) boot: c[37mh[37mip revision: 3[0m
+[0;32mI (3[37m2[37m) boot_comm: chip revision: 3, [37mm[37min. bootloader chip revision: 0[37m[37m[0m
+[0;32mI (39) boot.esp32: [37mS[37mPI Speed      : 40MHz[0m
+[0;[37m3[37m2mI (44) boot.esp32: SPI Mode  [37m [37m    : DIO[0m
+[0;32mI (48) bo[37mo[37mt.esp32: SPI Flash Size : 4MB[[37m0[37mm
+[0;32mI (53) boot: Enabling[37m [37mRNG early entropy source...[0m[37m[37m
+[0;32mI (58) boot: Partition [37mT[37mable:[0m
+[0;32mI (62) boot: [37m#[37m# Label            Usage       [37m [37m  Type ST Offset   Length[0m
+[37m[37m[0;32mI (69) boot:  0 nvs      [37m [37m       WiFi data        01 02 0[37m0[37m009000 00006000[0m
+[0;32mI ([37m7[37m6) boot:  1 phy_init         RF[37m [37mdata          01 01 0000f000 00[37m0[37m01000[0m
+[0;32mI (84) boot: [37m [37m2 factory          factory app [37m [37m    00 00 00010000 00100000[0m[37m[37m
+[0;32mI (91) boot: End of par[37mt[37mition table[0m
+[0;32mI (95) [37mb[37moot_comm: chip revision: 3, min[37m.[37m application chip revision: 0[[37m0[37mm
+[0;32mI (103) esp_image: se[37mg[37mment 0: paddr=00010020 vaddr=3f[37m4[37m00020 size=09d1ch ( 40220) map[37m[[37m0m
+[37m[37m[0;32mI (126) esp_image: segmen[37mt[37m 1: paddr=00019d44 vaddr=3ffb00[37m0[37m0 size=023c8h (  9160) load[0m[37m[37m
+[0;32mI (130) esp_image: segm[37me[37mnt 2: paddr=0001c114 vaddr=4008[37m0[37m000 size=03f04h ( 16132) load[[37m0[37mm
+[0;32mI (138) esp_image: se[37mg[37mment 3: paddr=00020020 vaddr=40[37m0[37md0020 size=19d68h (105832) map[37m[[37m0m
+[37m[37m[0;32mI (178) esp_image: segmen[37mt[37m 4: paddr=00039d90 vaddr=40083f[37m0[37m4 size=08af4h ( 35572) load[0m[37m[37m
+[37m[37m[0;32mI (193) esp_image: segmen[37mt[37m 5: paddr=0004288c vaddr=500000[37m0[37m0 size=00010h (    16) load[0m[37m[37m
+[0;32mI (200) boot: Loaded ap[37mp[37m from partition at offset 0x100[37m0[37m0[0m
+[0;32mI (200) boot: Dis[37ma[37mbling RNG early entropy source.[37m.[37m.[0m
+[0;32mI (213) cpu_start[37m:[37m Pro cpu up.[0m
+[0;32mI (214[37m)[37m cpu_start: Starting app cpu, e[37mn[37mtry point is 0x40081b1c[0m
+[[37m0[37m;32mI (0) cpu_start: App cpu up[37m.[37m[0m
+[37m[37m[0;32mI (228) cpu_start: Pro cp[37mu[37m start user code[0m
+[0;32mI [37m([37m228) cpu_start: cpu freq: 16000[37m0[37m000[0m
+[0;32mI (228) cpu_sta[37mr[37mt: Application information:[0m[37m[37m
+[0;32mI (232) cpu_start: Proj[37me[37mct name:     meter[0m
+[0;32m[37mI[37m (237) cpu_start: App version: [37m [37m    1[0m
+[0;32mI (241) cpu_s[37mt[37mart: Compile time:     Aug 10 2[37m0[37m23 03:09:51[0m
+[0;32mI (248)[37m [37mcpu_start: ELF file SHA256:  97[37m2[37m9605d7005fb08...[0m
+[0;32mI [37m([37m253) cpu_start: ESP-IDF:       [37m [37m  4.4.1[0m
+[0;32mI (259) hea[37mp[37m_init: Initializing. RAM availa[37mb[37mle for dynamic allocation:[0m[37m
+[37m[0;32mI (266) heap_init: At 3F[37mF[37mAE6E0 len 00001920 (6 KiB): DRA[37mM[37m[0m
+[0;32mI (272) heap_init:[37m [37mAt 3FFB2CF8 len 0002D308 (180 K[37mi[37mB): DRAM[0m
+[0;32mI (278) he[37ma[37mp_init: At 3FFE0440 len 00003AE[37m0[37m (14 KiB): D/IRAM[0m
+[0;32mI[37m [37m(284) heap_init: At 3FFE4350 le[37mn[37m 0001BCB0 (111 KiB): D/IRAM[0m[37m[37m
+[0;32mI (291) heap_init: At 4[37m0[37m08C9F8 len 00013608 (77 KiB): I[37mR[37mAM[0m
+[0;32mI (298) spi_flas[37mh[37m: detected chip: generic[0m
+[37m[[37m0;32mI (302) spi_flash: flash i[37mo[37m: dio[0m
+[0;32mI (307) cpu_s[37mt[37mart: Starting scheduler on PRO [37mC[37mPU.[0m
+[0;32mI (0) cpu_start[37m:[37m Starting scheduler on APP CPU.[37m[37m[0m
+[0;32mI (317) app: begin [37ms[37mampling[0m
+[0;31mE (317) i2c[37m:[37m i2c_param_config(662): i2c clo[37mc[37mk choice is invalid, please che[37mc[37mk flag and frequency[0m
+[37m[37m[0;31mE (1377) i2c: i2c_set_pin[37m([37m860): scl and sda gpio numbers [37ma[37mre the same[0m
+[0;31mE (1377[37m)[37m bus: I2C timeout[0m
+[0;31mE[37m [37m(1377) bus: reset: _write_to_ex[37mp[37mander 1 failed: 263[0m
+[37m[37m[0;31mE (2377) i2c: i2c_set_pin[37m([37m860): scl and sda gpio numbers [37ma[37mre the same[0m
+[0;31mE (2377[37m)[37m bus: I2C timeout[0m
+[37m[37m[0;31mE (3377) i2c: i2c_set_pin[37m([37m860): scl and sda gpio numbers [37ma[37mre the same[0m
+[0;31mE (3377[37m)[37m bus: I2C timeout[0m
+[37m[37m[0;31mE (4377) i2c: i2c_set_pin[37m([37m860): scl and sda gpio numbers [37ma[37mre the same[0m
+[0;31mE (4377[37m)[37m bus: I2C timeout[0m
+[0;31mE[37m [37m(4377) bus: reset: _write_top_n[37mi[37mbble 1 failed: 263[0m
+[37m[37m[0;31mE (5377) i2c: i2c_set_pin[37m([37m860): scl and sda gpio numbers [37ma[37mre the same[0m
+[0;31mE (5377[37m)[37m bus: I2C timeout[0m
+[37m[37m[0;31mE (6377) i2c: i2c_set_pin[37m([37m860): scl and sda gpio numbers [37ma[37mre the same[0m
+[0;31mE (6377[37m)[37m bus: I2C timeout[0m
+[37m[37m[0;31mE (7377) i2c: i2c_set_pin[37m([37m860): scl and sda gpio numbers [37ma[37mre the same[0m
+[0;31mE (7377[37m)[37m bus: I2C timeout[0m
+[0;31mE[37m [37m(7377) bus: reset: _write_top_n[37mi[37mbble 2 failed: 263[0m
+[37m[37m[0;31mE (8377) i2c: i2c_set_pin[37m([37m860): scl and sda gpio numbers [37ma[37mre the same[0m
+[0;31mE (8377[37m)[37m bus: I2C timeout[0m

@@ -1,0 +1,347 @@
+[37m���ѕ}ѽ}�������Ɂ0x3d[0m
+D (2[37m8[37m74) bus: _write_to_expander 0x3[37m9[37m[0m
+D (2884) bus: _write_top_[37mn[37mibble 0x01[0m
+D (2884) bus: _[37mw[37mrite_to_expander 0x09[0m
+D (2[37m8[37m84) bus: _write_to_expander 0x0[37md[37m[0m
+D (2894) bus: _write_to_e[37mx[37mpander 0x09[0m
+D (2894) bus: [37m_[37mwrite_data 0x30[0m
+D (2894) b[37mu[37ms: _write 0x30 | 0x01[0m
+D (2[37m9[37m04) bus: _write_top_nibble 0x31[37m[37m[0m
+D (2904) bus: _write_to_ex[37mp[37mander 0x39[0m
+D (2904) bus: _[37mw[37mrite_to_expander 0x3d[0m
+D (2[37m9[37m14) bus: _write_to_expander 0x3[37m9[37m[0m
+D (2914) bus: _write_top_[37mn[37mibble 0x01[0m
+D (2914) bus: _[37mw[37mrite_to_expander 0x09[0m
+D (2[37m9[37m24) bus: _write_to_expander 0x0[37md[37m[0m
+D (2924) bus: _write_to_e[37mx[37mpander 0x09[0m
+D (2934) bus: [37m_[37mwrite_command 0xcc[0m
+D (2934[37m)[37m bus: _write 0xcc | 0x00[0m
+D[37m [37m(2934) bus: _write_top_nibble 0[37mx[37mc0[0m
+D (2944) bus: _write_to[37m_[37mexpander 0xc8[0m
+D (2944) bus[37m:[37m _write_to_expander 0xcc[0m
+D[37m [37m(2944) bus: _write_to_expander [37m0[37mxc8[0m
+D (2954) bus: _write_t[37mo[37mp_nibble 0xc0[0m
+D (2954) bus[37m:[37m _write_to_expander 0xc8[0m
+D[37m [37m(2964) bus: _write_to_expander [37m0[37mxcc[0m
+D (2964) bus: _write_t[37mo[37m_expander 0xc8[0m
+D (2964) bu[37ms[37m: _write_data 0x4b[0m
+D (2974[37m)[37m bus: _write 0x4b | 0x01[0m
+D[37m [37m(2974) bus: _write_top_nibble 0[37mx[37m41[0m
+D (2974) bus: _write_to[37m_[37mexpander 0x49[0m
+D (2984) bus[37m:[37m _write_to_expander 0x4d[0m
+D[37m [37m(2984) bus: _write_to_expander [37m0[37mx49[0m
+D (2984) bus: _write_t[37mo[37mp_nibble 0xb1[0m
+D (2994) bus[37m:[37m _write_to_expander 0xb9[0m
+D[37m [37m(2994) bus: _write_to_expander [37m0[37mxbd[0m
+D (2994) bus: _write_t[37mo[37m_expander 0xb9[0m
+D (3004) bu[37ms[37m: _write_data 0x6d[0m
+D (3004[37m)[37m bus: _write 0x6d | 0x01[0m
+D[37m [37m(3004) bus: _write_top_nibble 0[37mx[37m61[0m
+D (3014) bus: _write_to[37m_[37mexpander 0x69[0m
+D (3014) bus[37m:[37m _write_to_expander 0x6d[0m
+D[37m [37m(3024) bus: _write_to_expander [37m0[37mx69[0m
+D (3024) bus: _write_t[37mo[37mp_nibble 0xd1[0m
+D (3024) bus[37m:[37m _write_to_expander 0xd9[0m
+D[37m [37m(3034) bus: _write_to_expander [37m0[37mxdd[0m
+D (3034) bus: _write_t[37mo[37m_expander 0xd9[0m
+D (3034) bu[37ms[37m: _write_data 0x2f[0m
+D (3044[37m)[37m bus: _write 0x2f | 0x01[0m
+D[37m [37m(3044) bus: _write_top_nibble 0[37mx[37m21[0m
+D (3044) bus: _write_to[37m_[37mexpander 0x29[0m
+D (3054) bus[37m:[37m _write_to_expander 0x2d[0m
+D[37m [37m(3054) bus: _write_to_expander [37m0[37mx29[0m
+D (3064) bus: _write_t[37mo[37mp_nibble 0xf1[0m
+D (3064) bus[37m:[37m _write_to_expander 0xf9[0m
+D[37m [37m(3064) bus: _write_to_expander [37m0[37mxfd[0m
+D (3074) bus: _write_t[37mo[37m_expander 0xf9[0m
+D (3074) bu[37ms[37m: _write_data 0x68[0m
+D (3074[37m)[37m bus: _write 0x68 | 0x01[0m
+D[37m [37m(3084) bus: _write_top_nibble 0[37mx[37m61[0m
+D (3084) bus: _write_to[37m_[37mexpander 0x69[0m
+D (3084) bus[37m:[37m _write_to_expander 0x6d[0m
+D[37m [37m(3094) bus: _write_to_expander [37m0[37mx69[0m
+D (3094) bus: _write_t[37mo[37mp_nibble 0x81[0m
+D (3104) bus[37m:[37m _write_to_expander 0x89[0m
+D[37m [37m(3104) bus: _write_to_expander [37m0[37mx8d[0m
+D (3104) bus: _write_t[37mo[37m_expander 0x89[0m
+[37m[37m[0;32mI (4114) app: freq: 47[0[37mm[37m
+D (4114) bus: _write_command [37m0[37mx01[0m
+D (4114) bus: _write 0[37mx[37m01 | 0x00[0m
+D (4114) bus: _w[37mr[37mite_top_nibble 0x00[0m
+D (411[37m4[37m) bus: _write_to_expander 0x08[37m[[37m0m
+D (4114) bus: _write_to_exp[37ma[37mnder 0x0c[0m
+D (4124) bus: _w[37mr[37mite_to_expander 0x08[0m
+D (41[37m2[37m4) bus: _write_top_nibble 0x10[37m[[37m0m
+D (4124) bus: _write_to_exp[37ma[37mnder 0x18[0m
+D (4134) bus: _w[37mr[37mite_to_expander 0x1c[0m
+D (41[37m3[37m4) bus: _write_to_expander 0x18[37m[37m[0m
+D (4144) bus: _write_comma[37mn[37md 0x02[0m
+D (4144) bus: _writ[37me[37m 0x02 | 0x00[0m
+D (4144) bus:[37m [37m_write_top_nibble 0x00[0m
+D ([37m4[37m154) bus: _write_to_expander 0x[37m0[37m8[0m
+D (4154) bus: _write_to_[37me[37mxpander 0x0c[0m
+D (4154) bus:[37m [37m_write_to_expander 0x08[0m
+D [37m([37m4164) bus: _write_top_nibble 0x[37m2[37m0[0m
+D (4164) bus: _write_to_[37me[37mxpander 0x28[0m
+D (4164) bus:[37m [37m_write_to_expander 0x2c[0m
+D [37m([37m4174) bus: _write_to_expander 0[37mx[37m28[0m
+D (4174) bus: _write_da[37mt[37ma 0x46[0m
+D (4174) bus: _writ[37me[37m 0x46 | 0x01[0m
+D (4184) bus:[37m [37m_write_top_nibble 0x41[0m
+D ([37m4[37m184) bus: _write_to_expander 0x[37m4[37m9[0m
+D (4194) bus: _write_to_[37me[37mxpander 0x4d[0m
+D (4194) bus:[37m [37m_write_to_expander 0x49[0m
+D [37m([37m4194) bus: _write_top_nibble 0x[37m6[37m1[0m
+D (4204) bus: _write_to_[37me[37mxpander 0x69[0m
+D (4204) bus:[37m [37m_write_to_expander 0x6d[0m
+D [37m([37m4204) bus: _write_to_expander 0[37mx[37m69[0m
+D (4214) bus: _write_da[37mt[37ma 0x72[0m
+D (4214) bus: _writ[37me[37m 0x72 | 0x01[0m
+D (4214) bus:[37m [37m_write_top_nibble 0x71[0m
+D ([37m4[37m224) bus: _write_to_expander 0x[37m7[37m9[0m
+D (4224) bus: _write_to_[37me[37mxpander 0x7d[0m
+D (4234) bus:[37m [37m_write_to_expander 0x79[0m
+D [37m([37m4234) bus: _write_top_nibble 0x[37m2[37m1[0m
+D (4234) bus: _write_to_[37me[37mxpander 0x29[0m
+D (4244) bus:[37m [37m_write_to_expander 0x2d[0m
+D [37m([37m4244) bus: _write_to_expander 0[37mx[37m29[0m
+D (4244) bus: _write_da[37mt[37ma 0x65[0m
+D (4254) bus: _writ[37me[37m 0x65 | 0x01[0m
+D (4254) bus:[37m [37m_write_top_nibble 0x61[0m
+D ([37m4[37m254) bus: _write_to_expander 0x[37m6[37m9[0m
+D (4264) bus: _write_to_[37me[37mxpander 0x6d[0m
+D (4264) bus:[37m [37m_write_to_expander 0x69[0m
+D [37m([37m4274) bus: _write_top_nibble 0x[37m5[37m1[0m
+D (4274) bus: _write_to_[37me[37mxpander 0x59[0m
+D (4274) bus:[37m [37m_write_to_expander 0x5d[0m
+D [37m([37m4284) bus: _write_to_expander 0[37mx[37m59[0m
+D (4284) bus: _write_da[37mt[37ma 0x71[0m
+D (4284) bus: _writ[37me[37m 0x71 | 0x01[0m
+D (4294) bus:[37m [37m_write_top_nibble 0x71[0m
+D ([37m4[37m294) bus: _write_to_expander 0x[37m7[37m9[0m
+D (4294) bus: _write_to_[37me[37mxpander 0x7d[0m
+D (4304) bus:[37m [37m_write_to_expander 0x79[0m
+D [37m([37m4304) bus: _write_top_nibble 0x[37m1[37m1[0m
+D (4314) bus: _write_to_[37me[37mxpander 0x19[0m
+D (4314) bus:[37m [37m_write_to_expander 0x1d[0m
+D [37m([37m4314) bus: _write_to_expander 0[37mx[37m19[0m
+D (4324) bus: _write_da[37mt[37ma 0x3a[0m
+D (4324) bus: _writ[37me[37m 0x3a | 0x01[0m
+D (4324) bus:[37m [37m_write_top_nibble 0x31[0m
+D ([37m4[37m334) bus: _write_to_expander 0x[37m3[37m9[0m
+D (4334) bus: _write_to_[37me[37mxpander 0x3d[0m
+D (4334) bus:[37m [37m_write_to_expander 0x39[0m
+D [37m([37m4344) bus: _write_top_nibble 0x[37ma[37m1[0m
+D (4344) bus: _write_to_[37me[37mxpander 0xa9[0m
+D (4354) bus:[37m [37m_write_to_expander 0xad[0m
+D [37m([37m4354) bus: _write_to_expander 0[37mx[37ma9[0m
+D (4354) bus: _write_da[37mt[37ma 0x20[0m
+D (4364) bus: _writ[37me[37m 0x20 | 0x01[0m
+D (4364) bus:[37m [37m_write_top_nibble 0x21[0m
+D ([37m4[37m364) bus: _write_to_expander 0x[37m2[37m9[0m
+D (4374) bus: _write_to_[37me[37mxpander 0x2d[0m
+D (4374) bus:[37m [37m_write_to_expander 0x29[0m
+D [37m([37m4374) bus: _write_top_nibble 0x[37m0[37m1[0m
+D (4384) bus: _write_to_[37me[37mxpander 0x09[0m
+D (4384) bus:[37m [37m_write_to_expander 0x0d[0m
+D [37m([37m4394) bus: _write_to_expander 0[37mx[37m09[0m
+D (4394) bus: _write_co[37mm[37mmand 0x86[0m
+D (4394) bus: _w[37mr[37mite 0x86 | 0x00[0m
+D (4404) b[37mu[37ms: _write_top_nibble 0x80[0m
+[37mD[37m (4404) bus: _write_to_expander[37m [37m0x88[0m
+D (4404) bus: _write_[37mt[37mo_expander 0x8c[0m
+D (4414) b[37mu[37ms: _write_to_expander 0x88[0m[37m
+[37mD (4414) bus: _write_top_nibble[37m [37m0x60[0m
+D (4414) bus: _write_[37mt[37mo_expander 0x68[0m
+D (4424) b[37mu[37ms: _write_to_expander 0x6c[0m[37m
+[37mD (4424) bus: _write_to_expande[37mr[37m 0x68[0m
+D (4434) bus: _write[37m_[37mdata 0x34[0m
+D (4434) bus: _w[37mr[37mite 0x34 | 0x01[0m
+D (4434) b[37mu[37ms: _write_top_nibble 0x31[0m
+[37mD[37m (4434) bus: _write_to_expander[37m [37m0x39[0m
+D (4444) bus: _write_[37mt[37mo_expander 0x3d[0m
+D (4444) b[37mu[37ms: _write_to_expander 0x39[0m[37m
+[37mD (4454) bus: _write_top_nibble[37m [37m0x41[0m
+D (4454) bus: _write_[37mt[37mo_expander 0x49[0m
+D (4454) b[37mu[37ms: _write_to_expander 0x4d[0m[37m
+[37mD (4464) bus: _write_to_expande[37mr[37m 0x49[0m
+D (4464) bus: _write[37m_[37mdata 0x37[0m
+D (4464) bus: _w[37mr[37mite 0x37 | 0x01[0m
+D (4474) b[37mu[37ms: _write_top_nibble 0x31[0m
+[37mD[37m (4474) bus: _write_to_expander[37m [37m0x39[0m
+D (4484) bus: _write_[37mt[37mo_expander 0x3d[0m
+D (4484) b[37mu[37ms: _write_to_expander 0x39[0m[37m
+[37mD (4484) bus: _write_top_nibble[37m [37m0x71[0m
+D (4494) bus: _write_[37mt[37mo_expander 0x79[0m
+D (4494) b[37mu[37ms: _write_to_expander 0x7d[0m[37m
+[37mD (4494) bus: _write_to_expande[37mr[37m 0x79[0m
+D (4504) bus: _write[37m_[37mcommand 0x8c[0m
+D (4504) bus:[37m [37m_write 0x8c | 0x00[0m
+D (4504[37m)[37m bus: _write_top_nibble 0x80[0[37mm[37m
+D (4514) bus: _write_to_expan[37md[37mer 0x88[0m
+D (4514) bus: _wri[37mt[37me_to_expander 0x8c[0m
+D (4524[37m)[37m bus: _write_to_expander 0x88[[37m0[37mm
+D (4524) bus: _write_top_nib[37mb[37mle 0xc0[0m
+D (4524) bus: _wri[37mt[37me_to_expander 0xc8[0m
+D (4534[37m)[37m bus: _write_to_expander 0xcc[[37m0[37mm
+D (4534) bus: _write_to_expa[37mn[37mder 0xc8[0m
+D (4534) bus: _wr[37mi[37mte_data 0x48[0m
+D (4544) bus:[37m [37m_write 0x48 | 0x01[0m
+D (4544[37m)[37m bus: _write_top_nibble 0x41[0[37mm[37m
+D (4544) bus: _write_to_expan[37md[37mer 0x49[0m
+D (4554) bus: _wri[37mt[37me_to_expander 0x4d[0m
+D (4554[37m)[37m bus: _write_to_expander 0x49[[37m0[37mm
+D (4564) bus: _write_top_nib[37mb[37mle 0x81[0m
+D (4564) bus: _wri[37mt[37me_to_expander 0x89[0m
+D (4564[37m)[37m bus: _write_to_expander 0x8d[[37m0[37mm
+D (4574) bus: _write_to_expa[37mn[37mder 0x89[0m
+D (4574) bus: _wr[37mi[37mte_data 0x7a[0m
+D (4574) bus:[37m [37m_write 0x7a | 0x01[0m
+D (4584[37m)[37m bus: _write_top_nibble 0x71[0[37mm[37m
+D (4584) bus: _write_to_expan[37md[37mer 0x79[0m
+D (4584) bus: _wri[37mt[37me_to_expander 0x7d[0m
+D (4594[37m)[37m bus: _write_to_expander 0x79[[37m0[37mm
+D (4594) bus: _write_top_nib[37mb[37mle 0xa1[0m
+D (4594) bus: _wri[37mt[37me_to_expander 0xa9[0m
+D (4604[37m)[37m bus: _write_to_expander 0xad[[37m0[37mm
+D (4604) bus: _write_to_expa[37mn[37mder 0xa9[0m
+D (4614) bus: _wr[37mi[37mte_command 0xc0[0m
+D (4614) b[37mu[37ms: _write 0xc0 | 0x00[0m
+D (4[37m6[37m14) bus: _write_top_nibble 0xc0[37m[37m[0m
+D (4624) bus: _write_to_ex[37mp[37mander 0xc8[0m
+D (4624) bus: _[37mw[37mrite_to_expander 0xcc[0m
+D (4[37m6[37m24) bus: _write_to_expander 0xc[37m8[37m[0m
+D (4634) bus: _write_top_[37mn[37mibble 0x00[0m
+D (4634) bus: _[37mw[37mrite_to_expander 0x08[0m
+D (4[37m6[37m34) bus: _write_to_expander 0x0[37mc[37m[0m
+D (4644) bus: _write_to_e[37mx[37mpander 0x08[0m
+D (4644) bus: [37m_[37mwrite_data 0x76[0m
+D (4654) b[37mu[37ms: _write 0x76 | 0x01[0m
+D (4[37m6[37m54) bus: _write_top_nibble 0x71[37m[37m[0m
+D (4654) bus: _write_to_ex[37mp[37mander 0x79[0m
+D (4664) bus: _[37mw[37mrite_to_expander 0x7d[0m
+D (4[37m6[37m64) bus: _write_to_expander 0x7[37m9[37m[0m
+D (4664) bus: _write_top_[37mn[37mibble 0x61[0m
+D (4674) bus: _[37mw[37mrite_to_expander 0x69[0m
+D (4[37m6[37m74) bus: _write_to_expander 0x6[37md[37m[0m
+D (4674) bus: _write_to_e[37mx[37mpander 0x69[0m
+D (4684) bus: [37m_[37mwrite_data 0x3a[0m
+D (4684) b[37mu[37ms: _write 0x3a | 0x01[0m
+D (4[37m6[37m84) bus: _write_top_nibble 0x31[37m[37m[0m
+D (4694) bus: _write_to_ex[37mp[37mander 0x39[0m
+D (4694) bus: _[37mw[37mrite_to_expander 0x3d[0m
+D (4[37m7[37m04) bus: _write_to_expander 0x3[37m9[37m[0m
+D (4704) bus: _write_top_[37mn[37mibble 0xa1[0m
+D (4704) bus: _[37mw[37mrite_to_expander 0xa9[0m
+D (4[37m7[37m14) bus: _write_to_expander 0xa[37md[37m[0m
+D (4714) bus: _write_to_e[37mx[37mpander 0xa9[0m
+D (4714) bus: [37m_[37mwrite_data 0x20[0m
+D (4724) b[37mu[37ms: _write 0x20 | 0x01[0m
+D (4[37m7[37m24) bus: _write_top_nibble 0x21[37m[37m[0m
+D (4724) bus: _write_to_ex[37mp[37mander 0x29[0m
+D (4734) bus: _[37mw[37mrite_to_expander 0x2d[0m
+D (4[37m7[37m34) bus: _write_to_expander 0x2[37m9[37m[0m
+D (4744) bus: _write_top_[37mn[37mibble 0x01[0m
+D (4744) bus: _[37mw[37mrite_to_expander 0x09[0m
+D (4[37m7[37m44) bus: _write_to_expander 0x0[37md[37m[0m
+D (4754) bus: _write_to_e[37mx[37mpander 0x09[0m
+D (4754) bus: [37m_[37mwrite_command 0xc6[0m
+D (4754[37m)[37m bus: _write 0xc6 | 0x00[0m
+D[37m [37m(4764) bus: _write_top_nibble 0[37mx[37mc0[0m
+D (4764) bus: _write_to[37m_[37mexpander 0xc8[0m
+D (4764) bus[37m:[37m _write_to_expander 0xcc[0m
+D[37m [37m(4774) bus: _write_to_expander [37m0[37mxc8[0m
+D (4774) bus: _write_t[37mo[37mp_nibble 0x60[0m
+D (4784) bus[37m:[37m _write_to_expander 0x68[0m
+D[37m [37m(4784) bus: _write_to_expander [37m0[37mx6c[0m
+D (4784) bus: _write_t[37mo[37m_expander 0x68[0m
+D (4794) bu[37ms[37m: _write_data 0x31[0m
+D (4794[37m)[37m bus: _write 0x31 | 0x01[0m
+D[37m [37m(4794) bus: _write_top_nibble 0[37mx[37m31[0m
+D (4804) bus: _write_to[37m_[37mexpander 0x39[0m
+D (4804) bus[37m:[37m _write_to_expander 0x3d[0m
+D[37m [37m(4804) bus: _write_to_expander [37m0[37mx39[0m
+D (4814) bus: _write_t[37mo[37mp_nibble 0x11[0m
+D (4814) bus[37m:[37m _write_to_expander 0x19[0m
+D[37m [37m(4824) bus: _write_to_expander [37m0[37mx1d[0m
+D (4824) bus: _write_t[37mo[37m_expander 0x19[0m
+D (4824) bu[37ms[37m: _write_data 0x2e[0m
+D (4834[37m)[37m bus: _write 0x2e | 0x01[0m
+D[37m [37m(4834) bus: _write_top_nibble 0[37mx[37m21[0m
+D (4834) bus: _write_to[37m_[37mexpander 0x29[0m
+D (4844) bus[37m:[37m _write_to_expander 0x2d[0m
+D[37m [37m(4844) bus: _write_to_expander [37m0[37mx29[0m
+D (4844) bus: _write_t[37mo[37mp_nibble 0xe1[0m
+D (4854) bus[37m:[37m _write_to_expander 0xe9[0m
+D[37m [37m(4854) bus: _write_to_expander [37m0[37mxed[0m
+D (4864) bus: _write_t[37mo[37m_expander 0xe9[0m
+D (4864) bu[37ms[37m: _write_data 0x30[0m
+D (4864[37m)[37m bus: _write 0x30 | 0x01[0m
+D[37m [37m(4874) bus: _write_top_nibble 0[37mx[37m31[0m
+D (4874) bus: _write_to[37m_[37mexpander 0x39[0m
+D (4874) bus[37m:[37m _write_to_expander 0x3d[0m
+D[37m [37m(4884) bus: _write_to_expander [37m0[37mx39[0m
+D (4884) bus: _write_t[37mo[37mp_nibble 0x01[0m
+D (4884) bus[37m:[37m _write_to_expander 0x09[0m
+D[37m [37m(4894) bus: _write_to_expander [37m0[37mx0d[0m
+D (4894) bus: _write_t[37mo[37m_expander 0x09[0m
+D (4904) bu[37ms[37m: _write_data 0x36[0m
+D (4904[37m)[37m bus: _write 0x36 | 0x01[0m
+D[37m [37m(4904) bus: _write_top_nibble 0[37mx[37m31[0m
+D (4914) bus: _write_to[37m_[37mexpander 0x39[0m
+D (4914) bus[37m:[37m _write_to_expander 0x3d[0m
+D[37m [37m(4914) bus: _write_to_expander [37m0[37mx39[0m
+D (4924) bus: _write_t[37mo[37mp_nibble 0x61[0m
+D (4924) bus[37m:[37m _write_to_expander 0x69[0m
+D[37m [37m(4924) bus: _write_to_expander [37m0[37mx6d[0m
+D (4934) bus: _write_t[37mo[37m_expander 0x69[0m
+D (4934) bu[37ms[37m: _write_command 0xcc[0m
+D (4[37m9[37m34) bus: _write 0xcc | 0x00[0m[37m[37m
+D (4944) bus: _write_top_nibbl[37me[37m 0xc0[0m
+D (4944) bus: _write[37m_[37mto_expander 0xc8[0m
+D (4954) [37mb[37mus: _write_to_expander 0xcc[0m[37m[37m
+D (4954) bus: _write_to_expand[37me[37mr 0xc8[0m
+D (4954) bus: _writ[37me[37m_top_nibble 0xc0[0m
+D (4964) [37mb[37mus: _write_to_expander 0xc8[0m[37m[37m
+D (4964) bus: _write_to_expand[37me[37mr 0xcc[0m
+D (4964) bus: _writ[37me[37m_to_expander 0xc8[0m
+D (4974)[37m [37mbus: _write_data 0x4b[0m
+D (4[37m9[37m74) bus: _write 0x4b | 0x01[0m[37m[37m
+D (4974) bus: _write_top_nibbl[37me[37m 0x41[0m
+D (4984) bus: _write[37m_[37mto_expander 0x49[0m
+D (4984) [37mb[37mus: _write_to_expander 0x4d[0m[37m[37m
+D (4994) bus: _write_to_expand[37me[37mr 0x49[0m
+D (4994) bus: _writ[37me[37m_top_nibble 0xb1[0m
+D (4994) [37mb[37mus: _write_to_expander 0xb9[0m[37m[37m
+D (5004) bus: _write_to_expand[37me[37mr 0xbd[0m
+D (5004) bus: _writ[37me[37m_to_expander 0xb9[0m
+D (5004)[37m [37mbus: _write_data 0x6d[0m
+D (5[37m0[37m14) bus: _write 0x6d | 0x01[0m[37m[37m
+D (5014) bus: _write_top_nibbl[37me[37m 0x61[0m
+D (5014) bus: _write[37m_[37mto_expander 0x69[0m
+D (5024) [37mb[37mus: _write_to_expander 0x6d[0m[37m[37m
+D (5024) bus: _write_to_expand[37me[37mr 0x69[0m
+D (5034) bus: _writ[37me[37m_top_nibble 0xd1[0m
+D (5034) [37mb[37mus: _write_to_expander 0xd9[0m[37m[37m
+D (5034) bus: _write_to_expand[37me[37mr 0xdd[0m
+D (5044) bus: _writ[37me[37m_to_expander 0xd9[0m
+D (5044)[37m [37mbus: _write_data 0x2f[0m
+D (5[37m0[37m44) bus: _write 0x2f | 0x01[0m[37m[37m
+D (5054) bus: _write_top_nibbl[37me[37m 0x21[0m
+D (5054) bus: _write[37m_[37mto_expander 0x29[0m
+D (5054) [37mb[37mus: _write_to_expander 0x2d[0m[37m[37m
+D (5064) bus: _write_to_expand[37me[37mr 0x29[0m
+D (5064) bus: _writ[37me[37m_top_nibble 0xf1[0m
+D (5064) [37mb[37mus: _write_to_expander 0xf9[0m[37m[37m
+D (5074) bus: _write_to_expand[37me[37mr 0xfd[0m
+D (5074) bus: _writ[37me[37m_to_expander 0xf9[0m
+D (5084)[37m [37mbus: _write_data 0x68[0m
+D (5[37m0[37m84) bus: _write 0x68 | 0x01[0m[37m[37m
+D (5084) bus: _write_top_nibbl[37me[37m 0x61[0m
+D (5094) bus: _write[37m_[37mto_expander 0x69[0m
+D (5094) [37mb[37mus: _write_to_expander 0x6d[0m[37m[37m
+D (5094) bus: _write_to_expand[37me[37mr 0x69[0m
+D (5104) bus: _writ[37me[37m_top_nibble 0x81[0m
+D (5104) [37mb[37mus: _write_to_expander 0x89[0m[37m[37m
+D (5104) bus: _write_to_expand[37me[37mr 0x8d[0m
+D (5114) bus: _writ[37me[37m_to_expander 0x89[0m

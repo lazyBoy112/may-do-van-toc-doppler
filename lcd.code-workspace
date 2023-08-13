@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../lcd"
+		},
+		{
+			"name": "ttt",
+			"path": "../ttt"
+		},
+		{
+			"name": "meter",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
